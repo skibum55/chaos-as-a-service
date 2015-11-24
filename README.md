@@ -5,6 +5,8 @@ Need to add youtube links to demos
 
 Need to break these into *X*aaS pages
 
+http://www.principlesofchaos.org/
+
 Overload DB/MQ
 
 netem - http://www.linuxfoundation.org/collaborate/workgroups/networking/netem & 
