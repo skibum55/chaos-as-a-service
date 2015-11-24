@@ -51,3 +51,5 @@ https://github.com/cppforlife/turbulence-release
 https://github.com/strepsirrhini-army
 
 Persistent disk unmount - https://github.com/pivotal-cloudops/chaos-boshrelease
+
+http://vaurien.readthedocs.org/en/1.8/
