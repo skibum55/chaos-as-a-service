@@ -62,3 +62,5 @@ http://techblog.netflix.com/2015/09/chaos-engineering-upgraded.html
 http://techblog.netflix.com/2014/10/fit-failure-injection-testing.html
 
 https://github.com/crewjam/dev/tree/master/chaosmonkey
+
+psdoom
