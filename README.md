@@ -72,3 +72,5 @@ adrianco/spigo ne simianviz
 https://github.com/coreos/clair
 
 https://github.com/osrg/namazu
+
+Create random loopback devices -> https://github.com/cloudfoundry-incubator/garden-linux-release/commit/30560db52a95bcd3edab8c48f22bfaf225bcf126
