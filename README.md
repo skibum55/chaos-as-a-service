@@ -76,3 +76,9 @@ https://github.com/coreos/clair
 https://github.com/osrg/namazu
 
 Create random loopback devices -> https://github.com/cloudfoundry-incubator/garden-linux-release/commit/30560db52a95bcd3edab8c48f22bfaf225bcf126
+
+Swisscom chaos heidi & Orchard (S&W, possibly closed source)
+
+https://github.com/cppforlife/turbulence-release
+
+Kapacitor/Influx/Alerta for metrics playback and alert stressing
