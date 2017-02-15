@@ -41,7 +41,9 @@ smoke tests
 
 acceptance tests
 
-https://github.com/eshiferax/chaoslemur
+https://github.com/eshiferax/chaoslemur https://github.com/strepsirrhini-army/chaos-lemur
+
+https://github.com/strepsirrhini-army/chaos-loris
 
 https://github.com/hassy/chaos-lambda
 
