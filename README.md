@@ -7,6 +7,10 @@ Need to break these into *X*aaS pages
 
 http://www.principlesofchaos.org/
 
+Presentations
+
+Sergiu Bodu DEVSECOPS Asia 2017 https://www.slideshare.net/FrancoisRaynaud/devseccon-asia-2017-sergiu-bodiu-from-resilient-to-antifragile
+
 Overload DB/MQ
 
 netem - http://www.linuxfoundation.org/collaborate/workgroups/networking/netem & 
