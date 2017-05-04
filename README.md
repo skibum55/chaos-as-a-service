@@ -86,3 +86,5 @@ Swisscom chaos heidi & Orchard (S&W, possibly closed source)
 https://github.com/cppforlife/turbulence-release
 
 Kapacitor/Influx/Alerta for metrics playback and alert stressing
+
+Change times on all your servers/containers/ntp to random times
