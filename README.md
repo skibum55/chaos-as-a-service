@@ -88,3 +88,8 @@ https://github.com/cppforlife/turbulence-release
 Kapacitor/Influx/Alerta for metrics playback and alert stressing
 
 Change times on all your servers/containers/ntp to random times
+
+MahiMahi - Record, replay web traffic with network failure emulation - http://mahimahi.mit.edu/
+
+Catapult - Chrome web team tools - https://github.com/catapult-project/catapult
+
