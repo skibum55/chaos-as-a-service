@@ -93,3 +93,5 @@ MahiMahi - Record, replay web traffic with network failure emulation - http://ma
 
 Catapult - Chrome web team tools - https://github.com/catapult-project/catapult
 
+Need something that will change permissions, scopes and ownerships
+
