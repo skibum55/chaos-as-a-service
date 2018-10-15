@@ -8,4 +8,4 @@ phases:
       - export PATH=$PATH:./sonar-scanner-3.2.0.1227-linux/bin/
   build:
     commands:
-      - sonar-scanner -Dsonar.projectKey=cure51-gapes Dsonar.organization=skibum55-github -Dsonar.sources=. -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=b85ce42d96cc973761366dfbeeb8ede60cc0ab4f
+      - sonar-scanner -Dsonar.projectKey=cure51-gapes -Dsonar.organization=skibum55-github -Dsonar.sources=. -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=b85ce42d96cc973761366dfbeeb8ede60cc0ab4f
